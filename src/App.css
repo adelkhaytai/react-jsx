@@ -41,3 +41,10 @@
 img{
   width: 400px;
 }
+.con{
+  display: flex;
+  justify-content: center;
+}
+.con p{
+  width: 300px;
+}
